@@ -149,6 +149,7 @@ body {
   flex-wrap: wrap;
   max-width: 1440px;
   margin-inline: auto;
+  gap: 20px;
 }
 
 .img-w-txt-heading {
